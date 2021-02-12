@@ -1,14 +1,22 @@
 <html>
-  <Head>
-    
-    <title1> </title1>
+ 
+  
+  <div class="central">
 
+
+  
+  <Head>
+ <center>   
+    <title1>  </title1>
+</di>
   <body>
  
     
     <center>
     <h1> Stocks </h1>
       <h2> <a href="https://codepen.io/Spencerh61295/pen/abBOXPY%22%3E" target="_blank">Informitave page on stocks</a></h2>
+      
+        <h3> <a href="https://github.com/WVCS/index-Spencerh1/blob/main/index.html" target="_blank">Back to Main Page</a></h3>
     
 
     
@@ -31,8 +39,44 @@
         <td> <a href="https://www.coinbase.com/price/dogecoin"> $DOGE COIN   </a> </td>
               
               <tr>
-        <td> <a href="https://www.google.com/search?q=nokia+stock&rlz=1C1CHBF_enUS874US874&oq=nokia+&aqs=chrome.1.69i57j0i131i433l4j0i433l2j0i131i433.3998j1j7&sourceid=chrome&ie=UTF-8"> $NOKIA </a> </td>
+        <td> <a href="https://www.google.com/search?q=nokia+stock&rlz=1C1CHBF_enUS874US874&oq=nokia+&aqs=chrome.1.69i57j0i131i433l4j0i433l2j0i131i433.3998j1j7&sourceid=chrome&ie=UTF-8"> $NOKIA </a> </td>   
+                </table>
+      
+      <p5 class="bigger"> Steps to profitiing on the stock market  </p5>
+     
+      <center>
+      <ol>
+  <li>BUY DIP</li>
+  <li>PROFIT </li>
+  
+</ol>
+</center>
+                
+      
+<img Class="bigger" src="https://www.nasdaq.com/sites/acquia.prod/files/styles/1370x700/public/2019-11-27T030712Z_1_OA5_RTRLXPP_2_LYNXPACKAGER.JPG?itok=n5v9YfE0" alt="alternatetext">
+  
+      </div>
+    
+      
 
+    
+    
+      
+      
+      
+ 
+  
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       
 
     
@@ -40,13 +84,6 @@
                
                <Style> 
  
- 
-  
-  
-  
-  
-  
-  
  body {
  background-image: ;
  background-color: #511ED2;
@@ -95,7 +132,37 @@ th {
   text-align: ;
   font-family: fantasy;
 }
-                </style>
+
+
+p5 {
+  color: Gold;
+  text-align: ;
+  font-family: fantasy;
+}
+
+
+Li {
+  color: Gold;
+  text-align:center ; 
+  font-family: fantasy;
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
+
+
+div {
+  text-align:center ; 
+  
+}
+
+
+
+
+
+</style>
       
       
       
