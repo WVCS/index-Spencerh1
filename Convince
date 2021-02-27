@@ -1,1 +1,60 @@
+<Html>
+  <center>
+<ul>
+  <li><a href="index.html">HOME</a></li>
+  <li><a href="noun.html">Informative Stock Page</a>
+    <li><a href="noun.html">Convince Page</a>
+  </li>
+  <li><a href="noun.html">List of Great investmentes</a></li>
+</ul>
+    
+    
+    <h1>INDISPUTABLE PROOF</h1>
+   
+    <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=56uSDQECrRQ">
+</iframe>
+    </center>
+  
+  
+   <!--------------------------------------------STYLE STARTS HERE------------------>
+ul{
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background: #301934;
+  top: 0%;
+  position:sticky;
 
+}
+li a{
+  display: block;
+  text-decoration: none;
+  padding: 25px 50px;
+  color: yellow;
+  font-size: 20px;
+  color: gold ;
+  float: left;
+}
+a:visited {
+  color: #0D1321;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #748CAB;
+  background-color: gold;
+  text-decoration: underline;
+}
+
+body {
+ background-image: ;
+ background-color: #511ED2;
+}
+
+h1 {
+  color: Gold;
+  text-align: ;
+  font-family: fantasy;
