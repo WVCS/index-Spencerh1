@@ -3,7 +3,7 @@
 <ul>
   <li><a href="index.html">HOME</a></li>
   <li><a href="noun.html">Informative Stock Page</a>
-    <li><a href="noun.html">Convince Page</a>
+    <li><a href="Convince.html">Convince Page</a>
   </li>
   <li><a href="noun.html">List of Great investmentes</a></li>
 </ul>
@@ -18,6 +18,7 @@ src="https://www.youtube.com/watch?v=56uSDQECrRQ">
   
   
    <!--------------------------------------------STYLE STARTS HERE------------------>
+   <STYLE>
 ul{
   list-style-type: none;
   width: 100%;
@@ -58,3 +59,6 @@ h1 {
   color: Gold;
   text-align: ;
   font-family: fantasy;
+  </STYLE>
+  
+  </HTML>
