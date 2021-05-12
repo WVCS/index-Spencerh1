@@ -1,0 +1,353 @@
+<Html>
+  
+
+</head>
+  <center>
+    
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="noun.html">Park Rules </a>
+    <li><a href="noun.html">Ride List</a>
+  </li>
+  <li><a href="noun.html">Food Choices </a></li>
+</ul>
+  </title>
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<body>
+<h1>Generic Land </h1>
+
+
+<img class="nature" src="https://cdn.discordapp.com/attachments/526601685100003331/841882381727694869/9k.png" width="50%">
+<img class="nature" src="https://cdn.discordapp.com/attachments/526601685100003331/841886660442587147/2Q.png" width="50%">
+<img class="nature" src="https://cdn.discordapp.com/attachments/526601685100003331/841886829909114890/2Q.png" width="50%">
+
+<script>
+w3.slideshow(".nature", 1000);
+  function changeImage(imgName)
+{image = document.getElementById('display');
+image.src = imgName;}
+
+</script>
+
+</body>
+    <body>
+     
+
+ <h1> Ticket Sales  </h1>
+    
+    <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+  ul{
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background: #769FB6;
+  top: 0%;
+  position:sticky;
+  border: 5px solid white;
+
+}
+li a{
+  display: block;
+  text-decoration: none;
+  padding: 25px 50px;
+  color: yellow;
+  font-size: 20px;
+  color: gold ;
+  float: left;
+}
+a:visited {
+  color: #0D1321;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: #4797AF;
+  text-decoration: underline;
+}
+
+body {
+ background-image: ;
+ background-color: #188FA7;
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
+
+h1 {
+  color: Gold;
+  text-align: ;
+  font-family: fantasy;
+  
+  ul{
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background: #BA3F1D;
+  top: 0%;
+  position:sticky;
+  border: 5px solid white;
+  
+  img {
+    
+  }
+  
+  
+}
+li a{
+  display: block;
+  text-decoration: none;
+  padding: 25px 50px;
+  color: yellow;
+  font-size: 20px;
+  color: #FFFFFF ;
+  float: left;
+}
+
+a:hover {
+  color: #748CAB;
+  background-color: #A24438;
+  text-decoration: underline;
+}
+
+body {
+ background-image: ;
+ background-color: #d80000;
+}
+#d80000
+
+#changeIMG{
+  width:100px;
+  Height:100px;
+}
+
+#sushi:hover;{
+  background-position: 125px 100px;
+  background:url('https://cdn.discordapp.com/attachments/526601685100003331/824005564605661245/Z.png') no-repat;}
+}
+
+#changeIMG{
+  width: 10px ;
+  height: 10px;
+  background: url('https://cdn.discordapp.com/attachments/526601685100003331/824005564605661245/Z.png')
+}
+
+
+h1 {
+  color: white;
+  text-align: ;
+  font-family: fantasy;
+}
+
+h1 {
+  color: white;
+  
+}
+
+p {
+  color: white;
+}
+
+{box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 10s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 10s;
+  animation-name: fade;
+  animation-duration: 10s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("may 15, 2021 15:37:25").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "OUT OF TIME";
+  }
+}, 1000);
+</script>
+  <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body>
+ <center>
+    
+   </center>
+
+
+<div class="dropdown">
+  <button class="dropbtn">Chose Ticket option </button>
+  <div class="dropdown-content">
+    <a href="#">Standard</a>
+    <a href="#">Super Package</a>
+    <a href="#">SUPER ULTRA PACKAGE </a>
+  </div>
+</div>
+
+</body>
+ 
+</body>
+    </html>
